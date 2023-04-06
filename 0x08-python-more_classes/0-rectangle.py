@@ -2,6 +2,6 @@
 """define a rectangle"""
 
 
-class rectangle:
+class Rectangle:
     """represent a rectangle"""
     pass
