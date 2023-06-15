@@ -1,4 +1,6 @@
-t { argv } = require('process');
+#!/usr/bin/node
+
+const { argv } = require('process');
 const size = parseInt(argv[2]);
 
 const printSquare = (size) => {
